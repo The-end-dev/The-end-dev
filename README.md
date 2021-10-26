@@ -1,5 +1,5 @@
 <details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
+ <summary> 😇 <b>Meus status no github:</b>: </summary>
 
 <br>
 
@@ -13,7 +13,7 @@
 
 
 <details open> 
- <summary><b>Featured Repos</b></summary>
+ <summary><b>Repositorios em destaque:</b></summary>
 <p align = "center">
 <a href = "https://github.com/pr2tik1/pr2tik1"><img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=pr2tik1&repo=pr2tik1&theme=tokyonight" /></a> <a href = "https://github.com/pr2tik1/sketch-recognition"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pr2tik1&repo=sketch-recognition&theme=tokyonight" /></a> </p>
 
@@ -21,7 +21,5 @@
 
 
 <details> 
- <summary>🤖 <b>My programming stats</b>: </summary>
-
 <br>
 
